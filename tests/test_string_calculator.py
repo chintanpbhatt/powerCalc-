@@ -1,5 +1,4 @@
-import pytest
-from string_calculator import StringCalculator
+from app.string_calculator import StringCalculator
 
 
 def test_add_empty_string():
